@@ -13,7 +13,7 @@ public class HelloUser {
 
         // Alphabetic validation
         if (CheckAlphabetic(name)) {
-            System.out.println("Greetings mr/mrs " + name);
+            System.out.println("Greetings " + name);
         } else {
             System.out.println("Entered name has errors");
         }
