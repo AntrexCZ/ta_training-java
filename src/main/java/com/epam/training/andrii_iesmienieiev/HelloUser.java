@@ -1,5 +1,9 @@
 package com.epam.training.andrii_iesmienieiev;
 
+/**
+ Приветствовать любого пользователя при вводе его имени через командную строку.
+**/
+
 import java.util.Scanner;
 
 public class HelloUser {
