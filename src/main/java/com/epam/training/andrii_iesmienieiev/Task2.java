@@ -1,13 +1,12 @@
 package com.epam.training.andrii_iesmienieiev;
 
-import java.util.Collections;
 import java.util.Scanner;
 
 /**
  * Отобразить в окне консоли аргументы командной строки в обратном порядке.
  */
 
-public class ReverseArgs {
+public class Task2 {
     public static void main(String[] args) {
         System.out.println("Enter your arguments : ");
         Scanner scanner = new Scanner(System.in);
